@@ -96,3 +96,19 @@
       "country": "The Netherlands"
     }
   }
+,{
+    "id": 1005,
+    "name": "Soumyajit Das",
+    "img": "https://photos.google.com/u/1/search/_cAF1QipNeTgU1gL3AquCV8ibA2RiycWXMggYdQy8_Soumyajit%20das/photo/AF1QipNk8XBAanwxFuWnBmp-TRuGKHAT5UYBbd6A0_Zi",
+    "links": {
+      "website": "https://soumyajit09.pythonanywhere.com/",
+      "linkedin": "https://www.linkedin.com/in/soumyajit-das-231634159/",
+      "github": "https://github.com/soumyajit09"
+    },
+    "jobTitle": "Python Developer | Machine Learning Enthusiast | Data Science Enthusiast",
+    "location": {
+      "city": "Bhilai",
+      "state": "Chhattisgarh",
+      "country": "India"
+    }
+  }
